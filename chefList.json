@@ -9,8 +9,8 @@
     },
     {
         "id": 2,
-        "chefPicture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "chefName": "Bob Johnson",
+        "chefPicture": "https://plus.unsplash.com/premium_photo-1661778003577-b5f7dfc8aac1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "chefName": "Emily Wilson",
         "yearsOfExperience": 15,
         "numRecipes": 75,
         "likes": 500
@@ -25,8 +25,8 @@
     },
     {
         "id": 4,
-        "chefPicture": "https://plus.unsplash.com/premium_photo-1661778003577-b5f7dfc8aac1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-        "chefName": "Emily Wilson",
+        "chefPicture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "chefName": "Bob Jhonson",
         "yearsOfExperience": 8,
         "numRecipes": 30,
         "likes": 800
