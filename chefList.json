@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "chefName": "Alice Smith",
         "yearsOfExperience": 10,
         "numRecipes": 50,
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "chefPicture": "https://example.com/chef2.jpg",
+        "chefPicture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "chefName": "Bob Johnson",
         "yearsOfExperience": 15,
         "numRecipes": 75,
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "chefPicture": "https://example.com/chef3.jpg",
+        "chefPicture": "https://plus.unsplash.com/premium_photo-1661778029158-e1a758c26bf7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "chefName": "Charlie Lee",
         "yearsOfExperience": 5,
         "numRecipes": 25,
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "chefPicture": "https://example.com/chef4.jpg",
+        "chefPicture": "https://plus.unsplash.com/premium_photo-1661778003577-b5f7dfc8aac1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "chefName": "Emily Wilson",
         "yearsOfExperience": 8,
         "numRecipes": 30,
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "chefPicture": "https://example.com/chef5.jpg",
+        "chefPicture": "https://images.unsplash.com/photo-1613251806367-5e597bb5c631?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
         "chefName": "Jake Brown",
         "yearsOfExperience": 12,
         "numRecipes": 60,
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "chefPicture": "https://example.com/chef6.jpg",
+        "chefPicture": "https://images.unsplash.com/photo-1667899827540-e06edbb2272d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "chefName": "Liam Patel",
         "yearsOfExperience": 3,
         "numRecipes": 15,
