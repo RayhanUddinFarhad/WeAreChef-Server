@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "chefName": "Alice Smith",
+        "yearsOfExperience": 10,
+        "numRecipes": 50,
+        "likes": 1000,
+        "recipes": [
+            {
+                "recipeName": "Lamingtons",
+                "recipePicture": "https://images.unsplash.com",
+                "ingredients": [
+                    "3 cups of flour",
+                    "1 tablespoon of baking powder",
+                    "1/2 teaspoon of salt",
+                    "1/2 cup of unsalted butter",
+                    "1 cup of sugar",
+                    "2 eggs",
+                    "1 teaspoon of vanilla extract",
+                    "1 cup of milk",
+                    "3 cups of desiccated coconut",
+                    "1 cup of raspberry jam"
+                ],
+                "cookingMethod": "Preheat the oven to 350°F. Grease and flour a 9-inch square baking pan. In a medium bowl, whisk together the flour, baking powder, and salt. In a large bowl, beat the butter and sugar together until light and fluffy. Add the eggs one at a time, beating well after each addition. Stir in the vanilla extract. Add the flour mixture and the milk to the butter mixture in alternating batches, beginning and ending with the flour mixture. Pour the batter into the prepared pan and bake for 30-35 minutes, or until a toothpick inserted into the center of the cake comes out clean. Let the cake cool completely, then cut it into squares. Spread raspberry jam over each square, then roll them in desiccated coconut. Serve and enjoy!",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Pavlova",
+                "recipePicture": "https://images.unsplash.com",
+                "ingredients": [
+                    "4 egg whites",
+                    "1 cup of caster sugar",
+                    "1 teaspoon of white vinegar",
+                    "1 teaspoon of cornflour",
+                    "1 teaspoon of vanilla extract",
+                    "1 1/2 cups of whipped cream",
+                    "2 cups of mixed fresh fruit (such as strawberries, kiwi fruit, and passionfruit)"
+                ],
+                "cookingMethod": "Preheat the oven to 300°F. Line a baking sheet with parchment paper. In a large bowl, beat the egg whites until stiff peaks form. Gradually add the caster sugar, 1 tablespoon at a time, while continuing to beat the egg whites. Once all the sugar has been added, beat for another 5 minutes or until the mixture is glossy and holds stiff peaks. Fold in the white vinegar, cornflour, and vanilla extract. Spoon the mixture onto the prepared baking sheet, shaping it into a large, round disk. Bake for 1 hour, then turn off the oven and leave the pavlova inside to cool completely. Once the pavlova is cool, top it with whipped cream and mixed fresh fruit. Serve and enjoy!",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Meat Pie",
+                "recipePicture": "https://images.unsplash.com",
+                "ingredients": [
+                    "500g beef mince",
+                    "1 onion, finely chopped",
+                    "1 carrot, peeled and finely chopped",
+                    "1 tbsp tomato paste",
+                    "2 tbsp plain flour",
+                    "2 cups beef stock",
+                    "2 sheets puff pastry",
+                    "1 egg, lightly beaten"
+                ],
+                "cookingMethod": "1. Preheat the oven to 200°C. 2. Brown the beef mince in a large frying pan over high heat. 3. Add the onion and carrot and cook until softened. 4. Add the tomato paste and flour and stir for 1-2 minutes. 5. Gradually pour in the beef stock while stirring constantly. 6. Roll out the puff pastry and line a pie dish with one sheet. 7. Add the meat mixture to the pie dish. 8. Cover with the second sheet of pastry and brush with beaten egg. 9. Bake for 30-35 minutes, or until golden brown.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chefPicture": "https://plus.unsplash.com/premium_photo-1661778003577-b5f7dfc8aac1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "chefName": "Emily Wilson",
+        "yearsOfExperience": 15,
+        "numRecipes": 75,
+        "likes": 500,
+        "recipes": [
+            {
+                "recipeName": "Barramundi with Lemon Butter Sauce Ingredients",
+                "recipePicture": "https://images.unsplash.com",
+                "ingredients": [
+                    "4 barramundi fillets",
+                    "2 tbsp olive oil",
+                    "Salt and pepper to taste",
+                    "1/2 cup butter",
+                    "1/4 cup lemon juice",
+                    "1 tbsp chopped fresh parsle"
+                ],
+                "cookingMethod": "Heat olive oil in a pan over medium-high heat. Season barramundi fillets with salt and pepper. Cook fillets for 3-4 minutes on each side or until cooked through.  Remove fillets from pan and keep warm. Add butter to the pan and cook until melted and starting to turn golden brown. Stir in lemon juice and parsley Spoon the sauce over the barramundi fillets and serve.",
+                
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Pavlova",
+                "recipePicture": "https://images.unsplash.com",
+                "ingredients": [
+                    "4 egg whites",
+                    "1 cup of caster sugar",
+                    "1 teaspoon of white vinegar",
+                    "1 teaspoon of cornflour",
+                    "1 teaspoon of vanilla extract",
+                    "1 1/2 cups of whipped cream",
+                    "2 cups of mixed fresh fruit (such as strawberries, kiwi fruit, and passionfruit)"
+                ],
+                "cookingMethod": "Preheat the oven to 300°F. Line a baking sheet with parchment paper. In a large bowl, beat the egg whites until stiff peaks form. Gradually add the caster sugar, 1 tablespoon at a time, while continuing to beat the egg whites. Once all the sugar has been added, beat for another 5 minutes or until the mixture is glossy and holds stiff peaks. Fold in the white vinegar, cornflour, and vanilla extract. Spoon the mixture onto the prepared baking sheet, shaping it into a large, round disk. Bake for 1 hour, then turn off the oven and leave the pavlova inside to cool completely. Once the pavlova is cool, top it with whipped cream and mixed fresh fruit. Serve and enjoy!",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Meat Pie",
+                "recipePicture": "https://images.unsplash.com",
+                "ingredients": [
+                    "500g beef mince",
+                    "1 onion, finely chopped",
+                    "1 carrot, peeled and finely chopped",
+                    "1 tbsp tomato paste",
+                    "2 tbsp plain flour",
+                    "2 cups beef stock",
+                    "2 sheets puff pastry",
+                    "1 egg, lightly beaten"
+                ],
+                "cookingMethod": "1. Preheat the oven to 200°C. 2. Brown the beef mince in a large frying pan over high heat. 3. Add the onion and carrot and cook until softened. 4. Add the tomato paste and flour and stir for 1-2 minutes. 5. Gradually pour in the beef stock while stirring constantly. 6. Roll out the puff pastry and line a pie dish with one sheet. 7. Add the meat mixture to the pie dish. 8. Cover with the second sheet of pastry and brush with beaten egg. 9. Bake for 30-35 minutes, or until golden brown.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chefPicture": "https://plus.unsplash.com/premium_photo-1661778029158-e1a758c26bf7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "chefName": "Charlie Lee",
+        "yearsOfExperience": 5,
+        "numRecipes": 25,
+        "likes": 2500,
+
+        "recipes": [
+            {
+                "recipeName": "Aussie Meat Pie",
+                "recipePicture": "https://images.unsplash.com/photo-1553531883-e9eb00b042a6",
+                "ingredients": [
+                    "1 lb. ground beef",
+                    "1 onion, finely chopped",
+                    "1 carrot, finely chopped",
+                    "1 celery stalk, finely chopped",
+                    "2 cloves garlic, minced",
+                    "2 tablespoons tomato paste",
+                    "2 tablespoons Worcestershire sauce",
+                    "1 tablespoon all-purpose flour",
+                    "1 cup beef stock",
+                    "Salt and pepper, to taste",
+                    "2 sheets frozen puff pastry, thawed",
+                    "1 egg, beaten"
+                ],
+                "cookingMethod": "Preheat the oven to 400°F (200°C). In a large skillet, cook the ground beef over medium heat until browned. Add the onion, carrot, celery, and garlic and cook until the vegetables are soft. Stir in the tomato paste, Worcestershire sauce, and flour. Gradually add the beef stock and stir until the mixture thickens. Season with salt and pepper to taste. Roll out the puff pastry and cut into circles to fit the top and bottom of 4 ramekins. Fill each ramekin with the beef mixture and cover with the pastry circles. Brush the top of the pastry with beaten egg. Bake for 20-25 minutes or until the pastry is golden brown and puffed.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chefPicture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "chefName": "Bob Jhonson",
+        "yearsOfExperience": 8,
+        "numRecipes": 30,
+        "likes": 800
+    },
+    {
+        "id": 5,
+        "chefPicture": "https://images.unsplash.com/photo-1613251806367-5e597bb5c631?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
+        "chefName": "Jake Brown",
+        "yearsOfExperience": 12,
+        "numRecipes": 60,
+        "likes": 1200
+    },
+    {
+        "id": 6,
+        "chefPicture": "https://images.unsplash.com/photo-1667899827540-e06edbb2272d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "chefName": "Liam Patel",
+        "yearsOfExperience": 3,
+        "numRecipes": 15,
+        "likes": 300
+    }
+]
