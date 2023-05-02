@@ -6,6 +6,7 @@
         "yearsOfExperience": 10,
         "numRecipes": 50,
         "likes": 1000,
+        "description": "Alice Smith is a renowned Australian chef with over 10 years of experience in the culinary industry. She has worked in various restaurants across the country and has won several awards for her delicious and innovative dishes. Alice is passionate about using fresh, locally-sourced ingredients and loves to experiment with different flavor combinations to create unique and unforgettable meals. She is also a cookbook author and has published several best-selling books on Australian cuisine.",
         "recipes": [
             {
                 "recipeName": "Lamingtons",
@@ -65,6 +66,7 @@
         "yearsOfExperience": 15,
         "numRecipes": 75,
         "likes": 500,
+        "description": "Emily Wilson is a seasoned Australian chef with over 15 years of experience in the culinary world. She has worked in some of the country's top restaurants and has won numerous awards for her innovative and delicious dishes. Emily is known for her use of bold flavors and unique ingredients, and she loves to experiment with different cooking techniques to create exciting and unforgettable meals. She is also a passionate advocate for sustainable and ethical food practices and incorporates these values into her cooking whenever possible.",
         "recipes": [
             {
                 "recipeName": "Barramundi with Lemon Butter Sauce Ingredients",
@@ -78,7 +80,6 @@
                     "1 tbsp chopped fresh parsle"
                 ],
                 "cookingMethod": "Heat olive oil in a pan over medium-high heat. Season barramundi fillets with salt and pepper. Cook fillets for 3-4 minutes on each side or until cooked through.  Remove fillets from pan and keep warm. Add butter to the pan and cook until melted and starting to turn golden brown. Stir in lemon juice and parsley Spoon the sauce over the barramundi fillets and serve.",
-                
                 "rating": 4.5
             },
             {
@@ -121,7 +122,7 @@
         "yearsOfExperience": 5,
         "numRecipes": 25,
         "likes": 2500,
-
+        "description": "Charlie Lee is a rising star in the Australian culinary scene. With just 5 years of experience, she has already made a name for herself with her fresh and vibrant dishes that showcase the best of local ingredients. Charlie is passionate about creating healthy and delicious meals that are accessible to everyone, and she enjoys experimenting with different cooking styles and techniques to achieve the perfect balance of flavors and textures. In her free time, Charlie volunteers at local food banks and community organizations to help promote food security and nutrition education.",
         "recipes": [
             {
                 "recipeName": "Aussie Meat Pie",
@@ -142,6 +143,46 @@
                 ],
                 "cookingMethod": "Preheat the oven to 400°F (200°C). In a large skillet, cook the ground beef over medium heat until browned. Add the onion, carrot, celery, and garlic and cook until the vegetables are soft. Stir in the tomato paste, Worcestershire sauce, and flour. Gradually add the beef stock and stir until the mixture thickens. Season with salt and pepper to taste. Roll out the puff pastry and cut into circles to fit the top and bottom of 4 ramekins. Fill each ramekin with the beef mixture and cover with the pastry circles. Brush the top of the pastry with beaten egg. Bake for 20-25 minutes or until the pastry is golden brown and puffed.",
                 "rating": 4.8
+            },
+            {
+                "recipeName": "Lamingtons",
+                "recipePicture": "https://images.unsplash.com/photo-1610644484269-c52e48c6e114",
+                "ingredients": [
+                    "1 1/2 cups all-purpose flour",
+                    "2 teaspoons baking powder",
+                    "1/2 teaspoon salt",
+                    "1/2 cup unsalted butter, at room temperature",
+                    "3/4 cup granulated sugar",
+                    "2 large eggs",
+                    "1 teaspoon vanilla extract",
+                    "1/2 cup whole milk",
+                    "3 cups sweetened shredded coconut",
+                    "1/2 cup raspberry jam",
+                    "1/2 cup heavy cream",
+                    "8 ounces semisweet chocolate, chopped"
+                ],
+                "cookingMethod": "Preheat oven to 350°F (180°C). Grease and flour a 9x13-inch baking pan. In a medium bowl, whisk together flour, baking powder, and salt. In a large bowl, beat butter and sugar with an electric mixer until light and fluffy, about 2-3 minutes. Beat in eggs one at a time, then vanilla extract. Gradually add flour mixture, alternating with milk, until just combined. Pour batter into prepared pan and bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean. Let cool in pan for 10 minutes, then transfer to a wire rack to cool completely. Once cool, cut into 24 squares. Spread raspberry jam on top of each square. In a small saucepan, heat cream until just boiling. Remove from heat and stir in chopped chocolate until melted and smooth. Dip each jam-topped square into the chocolate mixture, using a fork to flip it over and fully coat. Roll in shredded coconut and let cool until chocolate is set.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Slow Cooker Lamb Shanks",
+                "recipePicture": "https://images.unsplash.com/photo-1565294001479-22a0876f16a9",
+                "ingredients": [
+                    "4 lamb shanks",
+                    "2 tbsp olive oil",
+                    "1 onion, chopped",
+                    "3 garlic cloves, minced",
+                    "2 carrots, peeled and chopped",
+                    "2 celery stalks, chopped",
+                    "1 tbsp tomato paste",
+                    "1 tsp dried thyme",
+                    "1 tsp dried rosemary",
+                    "1 bay leaf",
+                    "2 cups beef stock",
+                    "Salt and pepper, to taste"
+                ],
+                "cookingMethod": "Heat the olive oil in a large skillet over medium-high heat. Season the lamb shanks with salt and pepper and brown on all sides in the skillet. Transfer the lamb shanks to a slow cooker. In the same skillet, sauté the onion, garlic, carrots, and celery until softened. Stir in the tomato paste, thyme, rosemary, and bay leaf and cook for an additional 2 minutes. Add the beef stock to the skillet and bring to a boil, scraping the bottom of the pan to release any browned bits. Pour the mixture over the lamb shanks in the slow cooker. Cover and cook on low for 8-10 hours or until the lamb is tender and falling off the bone. Serve hot.",
+                "rating": 4.6
             }
         ]
     },
@@ -151,7 +192,69 @@
         "chefName": "Bob Jhonson",
         "yearsOfExperience": 8,
         "numRecipes": 30,
-        "likes": 800
+        "likes": 800,
+        "description": "Chef Bob Johnson has 8 years of experience in the culinary arts and has created 30 unique and delicious recipes. He has received 800 likes from satisfied customers who have enjoyed his cooking. His passion for creating delectable dishes is apparent in the care he puts into every recipe.",
+        "recipes": [
+            {
+                "recipeName": "Beef and Vegetable Stir-Fry",
+                "recipePicture": "https://images.unsplash.com/photo-1569774445135-d5c5b5ff5a1d",
+                "ingredients": [
+                    "1 lb. beef sirloin, thinly sliced",
+                    "2 tbsp vegetable oil",
+                    "1 onion, sliced",
+                    "1 red bell pepper, sliced",
+                    "1 yellow bell pepper, sliced",
+                    "2 cups broccoli florets",
+                    "1 cup sliced mushrooms",
+                    "3 garlic cloves, minced",
+                    "1 tsp grated ginger",
+                    "3 tbsp soy sauce",
+                    "1 tbsp cornstarch",
+                    "1 tsp sugar",
+                    "Salt and pepper, to taste",
+                    "Cooked rice, for serving"
+                ],
+                "cookingMethod": "Heat the vegetable oil in a large skillet or wok over high heat. Add the beef and stir-fry until browned on all sides, about 3-4 minutes. Remove the beef from the skillet and set aside. Add the onion, bell peppers, broccoli, mushrooms, garlic, and ginger to the skillet and stir-fry for 3-4 minutes or until the vegetables are tender-crisp. In a small bowl, whisk together the soy sauce, cornstarch, sugar, salt, and pepper. Add the beef back to the skillet and pour the soy sauce mixture over the beef and vegetables. Stir-fry for an additional 1-2 minutes or until the sauce has thickened. Serve hot over cooked rice.",
+                "rating": 4.4
+            },
+            {
+                "recipeName": "Chicken Parmesan",
+                "recipePicture": "https://images.unsplash.com/photo-1603744361379-bc6d7f6bfb18",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1/2 cup all-purpose flour",
+                    "2 eggs, beaten",
+                    "1 cup seasoned breadcrumbs",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/4 cup vegetable oil",
+                    "1 jar (24 oz.) spaghetti sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "Salt and pepper, to taste"
+                ],
+                "cookingMethod": "Preheat the oven to 375°F (190°C). Place the flour, eggs, and breadcrumbs in three separate shallow dishes. Season the chicken breasts with salt and pepper. Dredge each chicken breast in the flour, shaking off any excess. Dip each chicken breast in the beaten eggs, then coat in the breadcrumbs, pressing the breadcrumbs onto the chicken to adhere. In a large skillet, heat the vegetable oil over medium-high heat. Add the breaded chicken breasts and cook for 3-4 minutes on each side or until golden brown. Remove the chicken from the skillet and place on a baking sheet. Spoon the spaghetti sauce over the chicken breasts and sprinkle with the grated Parmesan cheese and shredded mozzarella cheese. Bake for 20-25 minutes or until the cheese is melted and bubbly and the chicken is cooked through. Serve hot over spaghetti or your favorite pasta.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Lamb Shank Stew",
+                "recipePicture": "https://images.unsplash.com/photo-1625651348014-dfc69d888310",
+                "ingredients": [
+                    "4 lamb shanks",
+                    "2 tbsp olive oil",
+                    "2 onions, chopped",
+                    "4 garlic cloves, minced",
+                    "4 carrots, peeled and chopped",
+                    "4 celery stalks, chopped",
+                    "1 can (28 oz.) diced tomatoes",
+                    "2 cups beef broth",
+                    "2 bay leaves",
+                    "1 tsp dried thyme",
+                    "Salt and pepper, to taste",
+                    "2 tbsp chopped fresh parsley"
+                ],
+                "cookingMethod": "Preheat the oven to 350°F (175°C). Heat the olive oil in a Dutch oven over medium-high heat. Season the lamb shanks with salt and pepper. Brown the lamb shanks on all sides, then remove them from the pot and set them aside. In the same pot, add the onions, garlic, carrots, and celery and cook until the vegetables are tender. Stir in the diced tomatoes, beef broth, bay leaves, and thyme. Bring the mixture to a boil, then reduce the heat to low. Return the lamb shanks to the pot and spoon some of the sauce over them. Cover the pot with a lid and bake in the preheated oven for 2-2 1/2 hours, or until the lamb is tender and falls off the bone. Remove the bay leaves from the pot and discard them. Sprinkle with chopped fresh parsley before serving.",
+                "rating": 4.9
+            }
+        ]
     },
     {
         "id": 5,
@@ -159,7 +262,64 @@
         "chefName": "Jake Brown",
         "yearsOfExperience": 12,
         "numRecipes": 60,
-        "likes": 1200
+        "likes": 1200,
+        "description": "Chef Jake Brown has been honing his craft for 12 years, and his culinary expertise shines through in the 60 recipes he has created. He has received 1200 likes from satisfied customers who appreciate his skill in the kitchen. His dedication to cooking and his attention to detail make him a favorite among food lovers.",
+        "recipes": [
+            {
+                "recipeName": "Anzac Biscuits",
+                "recipePicture": "https://images.unsplash.com/photo-1611981428008-daa0fcd39d43",
+                "ingredients": [
+                    "1 cup all-purpose flour",
+                    "1 cup rolled oats",
+                    "1 cup desiccated coconut",
+                    "3/4 cup granulated sugar",
+                    "1/2 cup unsalted butter",
+                    "2 tablespoons golden syrup",
+                    "1 teaspoon baking soda",
+                    "2 tablespoons boiling water"
+                ],
+                "cookingMethod": "Preheat the oven to 350°F (180°C) and line a baking sheet with parchment paper. In a large mixing bowl, combine the flour, oats, coconut, and sugar. In a small saucepan, melt the butter and golden syrup together over low heat. Mix the baking soda with the boiling water and add to the butter mixture. Stir the butter mixture into the dry ingredients until well combined. Roll tablespoons of the mixture into balls and place onto the prepared baking sheet, spacing them about 2 inches apart. Flatten the balls slightly with your fingers. Bake for 12-15 minutes or until golden brown. Allow to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Chicken Parmigiana",
+                "recipePicture": "https://images.unsplash.com/photo-1598514834623-77fd47d6b0fd",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup breadcrumbs",
+                    "1/2 cup all-purpose flour",
+                    "2 eggs",
+                    "1/4 cup milk",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/4 cup chopped fresh parsley",
+                    "1/4 teaspoon garlic powder",
+                    "Salt and pepper, to taste",
+                    "1/4 cup olive oil",
+                    "2 cups marinara sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "Fresh basil leaves, for garnish"
+                ],
+                "cookingMethod": "Preheat the oven to 400°F (200°C). Season the chicken breasts with salt and pepper. In a shallow dish, whisk together the breadcrumbs, flour, garlic powder, Parmesan cheese, parsley, and a pinch of salt and pepper. In another shallow dish, whisk together the eggs and milk. Dip each chicken breast in the egg mixture, then coat in the breadcrumb mixture, pressing the crumbs onto the chicken to adhere. Heat the olive oil in a large oven-safe skillet over medium-high heat. Add the chicken breasts and cook for 3-4 minutes on each side, or until golden brown. Remove the skillet from the heat and pour the marinara sauce over the chicken. Sprinkle the shredded mozzarella cheese on top. Bake for 20-25 minutes, or until the chicken is cooked through and the cheese is melted and bubbly. Garnish with fresh basil leaves and serve.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Sausage Rolls",
+                "recipePicture": "https://images.unsplash.com/photo-1621959329354-c8b1dbf5e5f5",
+                "ingredients": [
+                    "1 lb. ground pork sausage",
+                    "1/2 cup bread crumbs",
+                    "1/2 onion, finely chopped",
+                    "2 cloves garlic, minced",
+                    "1 tbsp. Worcestershire sauce",
+                    "1 tbsp. chopped fresh parsley",
+                    "Salt and pepper to taste",
+                    "2 sheets frozen puff pastry, thawed",
+                    "1 egg, beaten"
+                ],
+                "cookingMethod": "Preheat oven to 400°F (200°C). In a mixing bowl, combine ground pork sausage, bread crumbs, onion, garlic, Worcestershire sauce, parsley, salt, and pepper. Mix well. On a floured surface, roll out puff pastry sheets to a thickness of 1/4 inch. Cut each sheet into four equal squares. Place 1/4 cup of sausage mixture on each square. Fold the puff pastry over to form a roll, and press the edges together to seal. Place the rolls on a baking sheet lined with parchment paper. Brush each roll with beaten egg. Bake for 20-25 minutes or until golden brown. Serve hot.",
+                "rating": 4.7
+            }
+        ]
     },
     {
         "id": 6,
@@ -167,6 +327,65 @@
         "chefName": "Liam Patel",
         "yearsOfExperience": 3,
         "numRecipes": 15,
-        "likes": 300
+        "likes": 300,
+        "description": "Chef Liam Patel may have only 3 years of experience, but his talent in the kitchen is undeniable. He has created 15 unique recipes that have received 300 likes from satisfied customers. His creativity and willingness to try new things make him an exciting and promising chef to watch.",
+        "recipes": [
+            {
+                "recipeName": "Beef and Guinness Stew",
+                "recipePicture": "https://images.unsplash.com/photo-1512058564369-6c2a332eea04",
+                "ingredients": [
+                    "2 pounds beef chuck, cut into 1-inch cubes",
+                    "3 tablespoons all-purpose flour",
+                    "3 tablespoons vegetable oil",
+                    "2 onions, chopped",
+                    "4 cloves garlic, minced",
+                    "2 tablespoons tomato paste",
+                    "2 cups beef broth",
+                    "1 1/2 cups Guinness stout",
+                    "1 tablespoon Worcestershire sauce",
+                    "3 carrots, chopped",
+                    "3 celery stalks, chopped",
+                    "2 bay leaves",
+                    "1 teaspoon dried thyme",
+                    "Salt and pepper, to taste"
+                ],
+                "cookingMethod": "In a bowl, season the beef cubes with salt and pepper, then coat with flour. Heat the oil in a large pot over medium-high heat. Brown the beef in batches and set aside. Add the onions and garlic to the pot and cook until soft. Add the tomato paste and cook for 1-2 minutes. Pour in the beef broth, Guinness, and Worcestershire sauce, and bring to a boil. Add the beef cubes back to the pot along with the carrots, celery, bay leaves, and thyme. Reduce the heat and simmer for 2-3 hours or until the beef is tender. Remove the bay leaves before serving.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Fish and Chips",
+                "recipePicture": "https://images.unsplash.com/photo-1588080468859-6e1b3f3ed09e",
+                "ingredients": [
+                    "1 lb white fish fillets",
+                    "1 cup all-purpose flour",
+                    "1 tsp baking powder",
+                    "1 tsp salt",
+                    "1 cup cold beer",
+                    "Vegetable oil, for frying",
+                    "4 large potatoes, peeled and cut into thick wedges",
+                    "Salt and vinegar, for serving"
+                ],
+                "cookingMethod": "In a large bowl, whisk together the flour, baking powder, and salt. Gradually whisk in the beer until the batter is smooth. Heat the vegetable oil in a large pot or deep fryer to 375°F. Dredge the fish fillets in the batter, shaking off any excess, and carefully add them to the hot oil. Fry until the fish is golden brown and cooked through, about 5-6 minutes. Remove with a slotted spoon and drain on paper towels. In the same pot or fryer, add the potato wedges and fry until crispy and golden brown, about 5-6 minutes. Drain on paper towels and sprinkle with salt. Serve the fish and chips hot with vinegar on the side.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Chicken Parmigiana",
+                "recipePicture": "https://images.unsplash.com/photo-1557528441-d2f72d0b852a",
+                "ingredients": [
+                    "4 chicken breast fillets",
+                    "1/2 cup all-purpose flour",
+                    "2 eggs, beaten",
+                    "1 1/2 cups panko breadcrumbs",
+                    "1/2 cup grated parmesan cheese",
+                    "Salt and pepper, to taste",
+                    "1/4 cup olive oil",
+                    "1 cup tomato sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "1/4 cup chopped fresh basil leaves"
+                ],
+                "cookingMethod": "Preheat the oven to 400°F (200°C). Coat the chicken fillets in flour, dip them in the beaten eggs, and coat them in a mixture of panko breadcrumbs, parmesan cheese, salt, and pepper. Heat the olive oil in a large ovenproof skillet over medium-high heat. Cook the chicken fillets for 3-4 minutes on each side or until golden brown. Remove the skillet from the heat and spoon the tomato sauce over the chicken fillets. Sprinkle the mozzarella cheese over the top. Transfer the skillet to the oven and bake for 15-20 minutes or until the cheese is melted and bubbly. Garnish with chopped fresh basil leaves before serving.",
+                "rating": 4.6
+            }
+        ]
     }
 ]
